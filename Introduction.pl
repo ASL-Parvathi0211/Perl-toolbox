@@ -32,3 +32,5 @@
         Scripting is the action of writing scripts using a scripting language, distinguishing neatly between programs, which are written in conventional programming language such as C,C++,java, and scripts, which are written using a different kind of language.
         We could reasonably argue that the use of scripting languages is just another kind of programming.
         Scripting languages are used from the ground up, employing a team of professional programmers, starting from welldefined specifications, and meeting for is qualitatively different from conventional programming languages like C++ and Ada address the problem of developing large applications specified performance constraints.
+
+        
